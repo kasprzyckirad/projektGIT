@@ -1,1 +1,3 @@
 czesc to jest dokument
+
+dodanie kolejnej linii
